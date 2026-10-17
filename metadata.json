@@ -1,0 +1,6 @@
+{
+  "name": "LegendStream XPlayer V2",
+  "description": "Android ve Google TV için minimal, şık, elit IPTV oynatıcı ve TMDB destekli TV arayüzü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
